@@ -1,7 +1,7 @@
 {
   "name": "git-test",
   "version": "1.0.0",
-  "description": "This is git and node test",
+  "description": "This is a test directory to learn Git and Node",
   "main": "index.html",
   "scripts": {
     "start": "npm run lite",
@@ -12,13 +12,13 @@
     "type": "git",
     "url": "git+https://github.com/Iftekharmahmud/git-test.git"
   },
-  "author": "Iftekhar Mahmud Fuad",
+  "author": "Iftekhar Mahmud",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Iftekharmahmud/git-test/issues"
   },
   "homepage": "https://github.com/Iftekharmahmud/git-test#readme",
   "devDependencies": {
-    "lite-server": "^2.4.0"
+    "lite-server": "^2.2.2"
   }
 }
